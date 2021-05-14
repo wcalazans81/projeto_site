@@ -18,12 +18,12 @@ main {
 
 h1 {
     font-size: 2em;
-    color: chocolate;
+    color: fuchsia;
 }
 
 h2 {
     font-size: 1.5em;
-    color: chocolate;
+    color: darkviolet;
 }
 
 img.lado {
@@ -33,7 +33,7 @@ img.lado {
 a {
     text-decoration: none;
     font-weight: bold;
-    color: chocolate;
+    color:chartreuse;
 }
 
 a:hover {
