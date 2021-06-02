@@ -69,6 +69,11 @@ body {
     padding-bottom: 50px;
  }
 
+ .cabeçalho {
+    padding-left: 100px;
+    padding-top: 40px; 
+ }
+
 
  p#p1 {
      font-size: 20px;
