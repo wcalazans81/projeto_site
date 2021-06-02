@@ -77,7 +77,34 @@ body {
 
  p#p1 {
      font-size: 20px;
-     margin-left: 190px;
+     margin-left: 150px;
+     color: white;
+ }
 
+ p#p2 {
+    font-size: 20px;
+     margin-left: 150px; 
+ }
 
+ p#p3 {
+    font-size: 20px;
+    margin-left: 150px;
+ }
+
+ .nat {
+    padding-left: 100px;
+    padding-top: 60px;
+    padding-bottom: 50px;
+ }
+
+ .bot {
+    padding-left: 100px;
+    padding-top: 60px;
+    padding-bottom: 50px;
+ }
+
+ .av {
+    padding-left: 100px;
+    padding-top: 60px;
+    padding-bottom: 50px;
  }
