@@ -24,6 +24,10 @@ body {
     background-color: #12863f;
 }
 
+.menu ul {
+    margin-left: 150px;
+}
+
 
 .menu ul ul {
     padding: 0;
