@@ -9,7 +9,7 @@ body {
 .menu ul li {
     background-color: #6F967E;
     color: white;
-   
+    margin-left: 150px;
     width: 150px;
     height: 40px;
     float: left;
@@ -24,9 +24,7 @@ body {
     background-color: #12863f;
 }
 
-.menu ul {
-    margin-left: 150px;
-}
+
 
 
 .menu ul ul {
